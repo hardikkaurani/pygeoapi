@@ -13,7 +13,7 @@ opensearch-dsl
 opensearch-py
 oracledb
 pandas
-psycopg2
+psycopg2==2.9.12
 pyarrow
 pygeofilter[backend-sqlalchemy]
 pygeoif
