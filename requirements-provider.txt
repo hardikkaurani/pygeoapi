@@ -23,5 +23,5 @@ pymysql
 scipy
 sodapy
 xarray==2026.7.0
-zarr<3
+zarr==2.18.7
 s3fs<=2023.6.0
